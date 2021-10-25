@@ -26,10 +26,9 @@
 
 + [React Portfolio Example](https://github.com/dannzdev/js-portfolio)
 + [Here Live Deploy](https://js-portfolioxd.netlify.app/)
-<br/>
+
 + [BatatiBit Responsive Landing Page](https://github.com/dannzdev/BatataBitcoin)
 + [Here Live Deploy](https://dannzdev.github.io/BatataBitcoin/)
-+ 
 <br/>
 
 
