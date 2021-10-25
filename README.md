@@ -1,4 +1,4 @@
-[![Header](https://github.com/dannzdev/dannzdev/blob/main/Daniel.gif "Header")](https://some-url.dev/)
+[![Header](https://github.com/dannzdev/dannzdev/blob/main/Daniel%20(1).gif "Header")](https://some-url.dev/)
 
 # Hello, folks! <img src="https://github.com/dannzdev/dannzdev/blob/main/wave.gif" width="30px">
 ### <div align="center">My name is Daniel Sanchez and I'm a Frontend Developer👨‍💻 Javascript&React.js
