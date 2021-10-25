@@ -3,7 +3,8 @@
 # <div align="center">Hello, folks! <img src="https://github.com/dannzdev/dannzdev/blob/main/wave.gif" width="30px"></div>
 ### <div align="center"> I'm a Frontend Developer👨‍💻 with knowledge in HTML, CSS and JAVASCRIPT technologies. Currently learning React.js as a main framework building great projects!</div>
 <br/>
-<div align="center">I'm from Chile ✌️ and Venezuela 🐱‍👤. With a lot of effort I managed to overcome every challenge and I succeed on becoming part of <strong>Platzi' Master Program </strong> a place dedicated to help the best Developers to grow and improve its technical skills. My goal is becoming Software Engineer, be able to help communities, work and grow with professional teams, and create wonderful projects all along.</div>
+
+##<div align="center">I'm from Chile ✌️ and Venezuela 🐱‍👤. With a lot of effort I managed to overcome every challenge and I succeed on becoming part of <strong>Platzi' Master Program </strong> a place dedicated to help the best Developers to grow and improve its technical skills. My goal is becoming Software Engineer, be able to help communities, work and grow with professional teams, and create wonderful projects all along.</div>
   
 
 🏳️‍🌈 Like to work/study with people from differents cultures and genres.
