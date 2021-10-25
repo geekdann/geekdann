@@ -1,21 +1,20 @@
 [![Header](https://github.com/dannzdev/dannzdev/blob/main/Daniel%20(1).gif "Header")](https://some-url.dev/)
 
-# Hello, folks! <img src="https://github.com/dannzdev/dannzdev/blob/main/wave.gif" width="30px">
-### <div align="center">My name is Daniel Sanchez and I'm a Frontend Developer👨‍💻 Javascript&React.js
-I'm from Chile and I'm currently participating in Platzi Master Program to improve my technical skills. I like learning new things, overcome challenges and build extraordinary things.
-You can find me on Twitter, or on LinkedIn.</div>  
+# <div align="center">Hello, folks! <img src="https://github.com/dannzdev/dannzdev/blob/main/wave.gif" width="30px"></div>
+### <div align="center"> I'm a Frontend Developer👨‍💻 with knowledge in HTML, CSS and JAVASCRIPT technologies. Currently learning React.js as a main framework building great projects!
+ I'm from Chile ✌️ and Venezuela 🐱‍👤. With a lot of effort I managed to overcome every challenge and I succeed on becoming part of <strong>Platzi' Master Program </strong> a place dedicated to help the best Developers to grow and improve its technical skills. My goal is becoming Software Engineer, be able to help communities, work and grow with professional teams, and create wonderful projects all along.</div>  
   
 
-- 🔭 I’m currently working on exciting projects  
+-🏳️‍🌈 Like to work/study with people from differents cultures and genres.
   
 
-- 👍 I’m currently learning Javascript and React.js  
+-🏳️ I feel a strong passion to English Language. 
   
 
-- 👾 Like RPG | RTS Video Games  
+-💯 SelfLearner
   
 
-- ⚡ Fun fact: Everything makes me laugh 😄  
+- ⚡ Discipline & Hard-Work are stronger than motivation.🧐
   
 
 <br/>  
