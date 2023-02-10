@@ -1,10 +1,10 @@
 [![Header](https://github.com/dannzdev/dannzdev/blob/main/Daniel%20(1).gif "Header")](https://some-url.dev/)
 
 # <div align="center">Hello, folks! <img src="https://github.com/dannzdev/dannzdev/blob/main/wave.gif" width="30px"></div>
-### <div align="center"> I'm a Frontend Developer🐱‍🏍💻 with knowledge in HTML | CSS | JAVASCRIPT | REACT.JS| Bootstrap</div>
+### <div align="center"> I'm a Frontend Developer🐱‍🏍💻 with knowledge in HTML | CSS | JAVASCRIPT | ANGULAR | Bootstrap | WEBFLOW</div>
 <br/>
 
-<div align="center">I live in Chile ✌️ and I'm from Venezuela 🐱‍👤. With a lot of effort I managed to overcome every challenge and I succeed on becoming part of <strong>Platzi' Master Program </strong> a place dedicated to help the best Developers to grow and improve its technical skills. My goal is becoming Software Engineer, be able to help communities, work and grow with professional teams, and create wonderful projects all along.</div>
+<div align="center">I live in Chile ✌️ and I'm from Venezuela 🐱‍👤. With a lot of effort I managed to overcome every challenge and I succeed on finding my first job as a frontend developer. My goal is becoming Software Engineer, be able to help communities, work and grow with professional teams, and create wonderful projects all along.</div>
 
 <br/>
   
@@ -12,7 +12,7 @@
 🏳️‍🌈 Like to work/study with people from differents cultures and genres.
   
 
-🏳️ I feel a strong passion to English Language. 
+🏳️ I feel a strong passion to learn every-day. 
   
 
 💯 SelfLearner ❤️ Love Feedback 💪 Grow Faster!
