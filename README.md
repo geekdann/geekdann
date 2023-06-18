@@ -1,66 +1,17 @@
-[![Header](https://github.com/dannzdev/dannzdev/blob/main/Daniel%20(1).gif "Header")](https://some-url.dev/)
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A passionate frontend developer from Chile</h3>
 
-# <div align="center">Hello, folks! <img src="https://github.com/dannzdev/dannzdev/blob/main/wave.gif" width="30px"></div>
-### <div align="center"> I'm a Frontend Developer🐱‍🏍💻 with knowledge in HTML | CSS | JAVASCRIPT | ANGULAR | Bootstrap | WEBFLOW</div>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannzdev&label=Profile%20views&color=0e75b6&style=flat" alt="dannzdev" /> </p>
 
-<div align="center">I live in Chile ✌️ and I'm from Venezuela 🐱‍👤. With a lot of effort I managed to overcome every challenge and I succeed on finding my first job as a frontend developer. My goal is becoming Software Engineer, be able to help communities, work and grow with professional teams, and create wonderful projects all along.</div>
+- 🔭 I’m currently working as an **Angular Developer**
 
-<br/>
-  
+- 🌱 I’m currently learning **.Net Framework**
 
-🏳️‍🌈 Like to work/study with people from differents cultures and genres.
-  
+- 📫 How to reach me **danielsanchez1502@gmail.com**
 
-🏳️ I feel a strong passion to learn every-day. 
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-💯 SelfLearner ❤️ Love Feedback 💪 Grow Faster!
-  
-
-⚡ Discipline & Hard-Work are stronger than motivation.🧐
-
-<br/>
-
-## Give me Feedback! 💪
-
-+ [React Portfolio Example](https://github.com/dannzdev/js-portfolio)
-+ [ Live Deploy👆](https://js-portfolioxd.netlify.app/)
-
-+ [BatatiBit Responsive Landing Page](https://github.com/dannzdev/BatataBitcoin)
-+ [Live Deploy👆](https://dannzdev.github.io/BatataBitcoin/)
-<br/>
-
-
-## Let's get in touch 😀 
-<div align="center">
-<a href="https://twitter.com/https://twitter.com/dannzdev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://dev.to/dannzdev" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dannzdev/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## My technologies 🖥️
-<div align="center">
- 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</div>
-
-<br/>  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
